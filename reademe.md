@@ -2,6 +2,15 @@
 
 Este é um projeto simples de uma página de login criada utilizando HTML e CSS.
 
+<p align="center">
+  <img src="src/img/desktop.png" width="600" alt="Imagem Desktop">
+</p>
+
+<p align="center">
+  <img src="src/img/mobile.png" width="300" alt="Imagem Mobile">
+</p>
+
+
 ## Estrutura do Projeto
 
 O projeto está estruturado da seguinte forma:
